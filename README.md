@@ -1,6 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nyungsu&fontAlign=80&fontAlignY=40&color=c2e59c&fontColor=FFFFFF )
 
-### 👋 I'm interested
 ###     `ESTJ` `1.01^365 = 37` `Crossfit` `Computer Vision`  `Perception Tech of Autonomous` 
 <br><br>
 
