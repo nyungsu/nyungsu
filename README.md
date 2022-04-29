@@ -7,5 +7,5 @@
 
 <p align="center">
     <Strong>☁️Contact☁️</Strong><br><br>
-    <a href="https://pgmjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"(mailto:ysjeong1128@gmail.com)/></a>
+    <a href="link=mailto:ysjeong1128@gmail.com)" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"(mailto:ysjeong1128@gmail.com)/></a>
 <a href="https://www.instagram.com/nyung._.su/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
