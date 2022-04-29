@@ -16,7 +16,12 @@
 <br><br>
 
 ## ▎Portfolio
+<a href="https://fan-coal-8f9.notion.site/Nyungsu-b23743e5f7a04299a9a05bf683984541"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+
+
 [아여기 뭐적지](https://fan-coal-8f9.notion.site/Nyungsu-b23743e5f7a04299a9a05bf683984541)
 <br><br>
 
