@@ -1,6 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nyungsu&fontAlign=80&fontAlignY=40&color=c2e59c&fontColor=FFFFFF )
 ## ▎Keywords
-### `Computer Vision` `Perception Tech of Autonomous`
 ### `1.01^365 = 37` `ESTJ` `Crossfit`
 <br><br>
 
