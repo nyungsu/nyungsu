@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nyungsu&fontAlign=80&fontAlignY=40&color=c2e59c&fontColor=FFFFFF )
 ## ▎Keywords
-### `1.01^365 = 37` `ESTJ` `Crossfit`
+### `1.01^365 = 37` `E/E` `ESTJ` `Crossfit`
 <br><br>
 
 ## ▎Stack
