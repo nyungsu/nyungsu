@@ -1,6 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nyungsu&fontAlign=80&fontAlignY=40&color=c2e59c&fontColor=FFFFFF )
 ## ▎Keywords
-### `E/E` ` AI` `1.01^365 = 37`  `ESTJ` `Crossfit`
+### `E/E`  `1.01^365 = 37`  `ESTJ` `Crossfit`
+### `AI` `Semiconductor` `Data scientist`
 <br><br>
 
 ## ▎Stack
